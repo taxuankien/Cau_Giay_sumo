@@ -1,0 +1,13 @@
+<configuration>
+    <net-file value="C:\ITS\Traffic Light Control\Simulation Lab\CauGiay\caugiay_lang_v2.net.xml"/>
+    <output-trip-file value="C:\ITS\Traffic Light Control\Simulation Lab\CauGiay\test-motor.trips.xml"/>
+    <route-file value="C:\ITS\Traffic Light Control\Simulation Lab\CauGiay\test-motor.rou.xml"/>
+    <prefix value="m"/>
+    <vehicle-class value="motorcycle"/>
+    <length value="True"/>
+    <lanes value="True"/>
+    <vclass value="motorcycle"/>
+    <marouter value="True"/>
+    <validate value="True"/>
+    <insertion-density value="500.0"/>
+</configuration>
